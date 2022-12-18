@@ -1,5 +1,4 @@
-- 👋 매일매일 성장하는 개발자
-- 💞️ Eunbi Cho
+- 👋 일을 사랑하고 싶은 개발자
 - 🌱 Backend Developer
 - 🌱 Java, SpringBoot, MySQL, Docker, Kubernetes
 - 🌱 Cloud, Citrix, Fortigate, Nutanix
