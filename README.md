@@ -1,5 +1,4 @@
 - 🌱 Backend Developer
-- 🌱 Java, SpringBoot, MySQL, Docker, Kubernetes
 - 📫 joeunbi0514@gmail.com 
 
 <!---
